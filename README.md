@@ -21,6 +21,8 @@ The **Public Messaging Board** is a web-based application where users can post, 
 
 This project is a testament to the power of open-source development and teamwork, with contributions ranging from UI enhancements to backend functionality.
 
+The project is deployed at: [Grit Square](https://fe24-versionshantering-gritsquare-g2.netlify.app/)
+
 ---
 
 ## Features
